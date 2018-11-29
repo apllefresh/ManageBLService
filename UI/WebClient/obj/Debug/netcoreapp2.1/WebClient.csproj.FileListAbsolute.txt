@@ -1,0 +1,3 @@
+C:\study\ManageBLService\UI\WebClient\obj\Debug\netcoreapp2.1\WebClient.csproj.CoreCompileInputs.cache
+C:\study\ManageBLService\UI\WebClient\obj\Debug\netcoreapp2.1\WebClient.AssemblyInfoInputs.cache
+C:\study\ManageBLService\UI\WebClient\obj\Debug\netcoreapp2.1\WebClient.AssemblyInfo.cs
